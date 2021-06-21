@@ -1,2 +1,2 @@
 # foss-resources
-FOSS resourrces from diverse domains
+FOSS resources from diverse domains
