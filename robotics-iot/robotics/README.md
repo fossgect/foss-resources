@@ -17,8 +17,11 @@ These three laws state that:*
 
 ### Beginner Level
   *As a beginner one should try to grasp the basic knowledges in fields like electronics, mechanical, and computer science*
+  ***you can start reading by this article on [Getting Started with robotics](https://robots.ieee.org/learn/getting-started/)***
  
 
 ### Intermediate Level
 
 ### Advanced Level
+
+### 
