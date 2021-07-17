@@ -9,8 +9,15 @@ These three laws state that:*
    *   **Robots will follow instructions given by humans with breaking law one.**
    *   **Robots will protect themselves without breaking other rules.**
 
+## **Robotic Operating System(ROS)**
+
+***&emsp;&emsp;ROS (Robot Operating System)** provides libraries and tools to help software developers create robot applications. It provides hardware abstraction, device drivers, libraries, visualizers, message-passing, package management, and more. ROS is licensed under an open source, BSD license.*
+
+***you can install and read documentation of ROS [here!](http://wiki.ros.org/)***
+
 ### Beginner Level
-  *As a beginner one should try to grasp the basic knowledges in fields like electronics, mechanical, and computer science
+  *As a beginner one should try to grasp the basic knowledges in fields like electronics, mechanical, and computer science*
+ 
 
 ### Intermediate Level
 
