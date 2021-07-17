@@ -5,9 +5,9 @@
 <br>
 &emsp;&emsp;There was an author named **Issac Asimov**, he said that he was the first person to give robotics name in a short story composed in 1940’s. In that story, Issac suggested three principles about how to guide these types of robotic machines. Later on, these three principles were given the name of **Issac’s three laws of Robotics**.<br>
 These three laws state that:*
-   *   **Robots will never harm human beings.**
-   *   **Robots will follow instructions given by humans with breaking law one.**
-   *   **Robots will protect themselves without breaking other rules.**
+ >  *   **Robots will never harm human beings.**
+ >  *   **Robots will follow instructions given by humans with breaking law one.**
+ >  *   **Robots will protect themselves without breaking other rules.**
 
 ## **Robotic Operating System(ROS)**
 
